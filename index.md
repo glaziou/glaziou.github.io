@@ -11,7 +11,7 @@ glaziou.github.io
 -   [whomap project on **GitHub**](https://github.com/glaziou/whomap) choropleth world maps (R)
 -   [sampsize project on **GitHub**](https://github.com/glaziou/sampsize) sample size and power.
 Web interface: [http://sampsize.sourceforge.net](http://sampsize.sourceforge.net/iface/index.html)
--   [dotfiles projects on **GitHub**](https://github.com/glaziou/dotfiles) my Unix dotfiles
+-   [dotfiles project on **GitHub**](https://github.com/glaziou/dotfiles) my Unix dotfiles
 
 </div>
 <br>
