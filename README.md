@@ -1,4 +1,4 @@
-Adapted from http://twitter.github.com/ and from https://github.com/hadley/hadley.github.io
+Adapted from http://twitter.github.com/ 
 
 LICENSE
 ------------
